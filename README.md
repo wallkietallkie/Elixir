@@ -20,18 +20,18 @@ mix deps.get
 
 ### Pre-requisitos 📋
 
-_UNIX: LINUX / MAC
-_Elixir 1.10 o mayor
-_Erlang OTP  correspondiente a ELIXIR
+* UNIX: LINUX / MAC
+* Elixir 1.10 o mayor
+* Erlang OTP  correspondiente a ELIXIR
 
 ### Ejecución 🔧
 
 _Se tiene que ejecutar las variables de ambiente contenidas en el archivo "env" . Se pueden agregar al profile o ejecutar antes de realizar la version productiva, donde:
     
-   NIVEL: JSON para cargar los niveles de jugadores.
-   FILE_IN: Path de archivo JSON de entrada. 
-   FILE_OUT: Path de archivo JSON de salida, con el campo sueldo_completo.
-   LOG_RESUELVE: Path donde se graba el 
+*  NIVEL: JSON para cargar los niveles de jugadores.
+*  FILE_IN: Path de archivo JSON de entrada. 
+*  FILE_OUT: Path de archivo JSON de salida, con el campo sueldo_completo.
+*  LOG_RESUELVE: Path donde se graba el 
 
 _Ejemplo:
  
@@ -68,17 +68,18 @@ $ ./resuelve_fc
 
 
 ## Ejecutando las pruebas ⚙️
-
-_mix test test/resuelve_fc_test.exs
+```
+ $ mix test test/resuelve_fc_test.exs
+```
 
 
 ### Validaciones aplicadas ⌨️
 
-_Validacion de formato JSON. 
-_Validacion de tipo de datos. 
-_Validacion de duplicación de registro de jugadores. 
-_Validaciones de campos necesarios. 
-_validaciones de FILE.IO.  
+* Validacion de formato JSON. 
+* Validacion de tipo de datos. 
+* Validacion de duplicación de registro de jugadores. 
+* Validaciones de campos necesarios. 
+* validaciones de FILE.IO.  
 
 
 
