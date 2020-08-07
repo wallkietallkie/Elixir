@@ -1,10 +1,10 @@
 # RTD
 
 _Proyecto que resuelve el problema planteado para el calculo de sueldos de ResuelveFC:_ 
-*  Recibe archivo JSON, en archivo de entrada.
-*  Carga configuración de Niveles. 
-*  Calcula desempeño por equipos.
-*  Procesa JSON vs Niveles/Desempeño equipo, guarda en archivo salida. 
+* Recibe archivo JSON, en archivo de entrada.
+* Carga configuración de Niveles. 
+* Calcula desempeño por equipos.
+* Procesa JSON vs Niveles/Desempeño equipo, guarda en archivo salida. 
   
  
 
