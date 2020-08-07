@@ -86,6 +86,6 @@ $ ./resuelve_fc
 ## Autores ✒️
 
 
-* **Erik Alejandro Linares Mendoza** - *Trabajo Inicial* - [alejandroerik](https://github.com/alejandroerik/ale8583) - [email](erik.linares@gmail.com) - [Tel](55 26 73 90 44)
+* **Erik Alejandro Linares Mendoza** - *GITHUB* - [alejandroerik](https://github.com/alejandroerik/ale8583)  email: erik.linares@gmail.com) - Tel: (55 26 73 90 44)
 
 
