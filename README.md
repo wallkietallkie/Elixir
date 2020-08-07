@@ -12,7 +12,7 @@ _Proyecto que resuelve el problema planteado para el calculo de sueldos de Resue
 
 ```
 git clone https://github.com/wallkietallkie/Elixir.git 
-cd resuelve_fc
+cd Elixir
 mix deps.get
 ```
 
