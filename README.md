@@ -41,7 +41,7 @@ $ export NIVEL="{ \"A\": 5, \"B\": 10, \"C\": 15, \"Cuauh\": 20 }"
 $ export FILE_OUT="./salida.json"
 $ export FILE_IN="./entrada.json"
 $ export LOG_RESUELVE="./resuelve_fc.log"
-$ MIX_ENV=prod
+$ export MIX_ENV=prod
 ```
 
 Generando binario:
