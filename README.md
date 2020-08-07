@@ -60,11 +60,10 @@ $ ./resuelve_fc
 
 ```
 
-* Toma como entrada:  
- ** Json que se encuentra guardado en la variable $FILE_IN, en este caso el archivo "./entrada.json".
- ** Variable de ambiente con JSON que esta en la variable de ambiente $NIVEL.
+_Toma como entrada:_  
+* Json que se encuentra guardado en la variable $FILE_IN, en este caso el archivo "./entrada.json".
+* Variable de ambiente con JSON que esta en la variable de ambiente $NIVEL.
 * Procesa la información para guardar el archivo configurado en el archivo $FILE_OUT, en este caso de "./salida.json".
-* 
 
 
 ## Ejecutando las pruebas ⚙️
