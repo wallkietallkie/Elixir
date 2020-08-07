@@ -10,10 +10,11 @@ _Proyecto que resuelve el problema planteado para el calculo de sueldos de Resue
 
 ## Comenzando 🚀
 
-
+```
 git clone 
 cd resuelve_fc
 mix deps.get
+```
 
 
 
