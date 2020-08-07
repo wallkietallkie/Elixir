@@ -1,10 +1,10 @@
 # RTD
 
-_Proyecto que resuelve el problema planteado para el calculo de sueldos de ResuelveFC: 
-  Recibe archivo JSON, en archivo de entrada.
-  Carga configuración de Niveles. 
-  Calcula desempeño por equipos
-  Procesa JSON vs Niveles/Desempeño equipo, guarda en archivo salida. 
+_Proyecto que resuelve el problema planteado para el calculo de sueldos de ResuelveFC:_ 
+*  Recibe archivo JSON, en archivo de entrada.
+*  Carga configuración de Niveles. 
+*  Calcula desempeño por equipos.
+*  Procesa JSON vs Niveles/Desempeño equipo, guarda en archivo salida. 
   
  
 
@@ -26,14 +26,14 @@ mix deps.get
 
 ### Ejecución 🔧
 
-_Se tiene que ejecutar las variables de ambiente contenidas en el archivo "env" . Se pueden agregar al profile o ejecutar antes de realizar la version productiva, donde:
+_Se tiene que ejecutar las variables de ambiente contenidas en el archivo "env" . Se pueden agregar al profile o ejecutar antes de realizar la version productiva, donde:_
     
 *  NIVEL: JSON para cargar los niveles de jugadores.
 *  FILE_IN: Path de archivo JSON de entrada. 
 *  FILE_OUT: Path de archivo JSON de salida, con el campo sueldo_completo.
 *  LOG_RESUELVE: Path donde se graba el 
 
-_Ejemplo:
+_Ejemplo:_
  
 Cargando variables de ambiente:
 ```
